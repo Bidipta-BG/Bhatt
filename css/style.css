@@ -243,16 +243,6 @@
     background-size: cover;
 }
 
-.video1 {
-    position: relative;
-    height: 100%;
-    min-height: 500px;
-    background: linear-gradient(rgba(15, 23, 43, .1), rgba(15, 23, 43, .1)), url(../img/TestSubmit2.jpeg);
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
 .video .btn-play {
     position: absolute;
     z-index: 3;
